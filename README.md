@@ -15,3 +15,9 @@ oi meu nome é gabriela
 estou estudando no alura 
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+### Você pode entrar em contato comigo  📫 
+
+gabriela.govaski.nascimento@escola.pr.gov.br
+
+![](https://www.icegif.com/wp-content/uploads/2022/09/icegif-335.gif)
